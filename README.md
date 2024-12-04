@@ -15,5 +15,10 @@
 <p>Only I need to know.</p>
 <p>I mean, don't look at it too much lol.</p>
 
+### Fees and transportation costs.
+
+<p>The itinerary should start from Yokohama station for each performance and go to each venue.</p>
+<p>Additional information such as serial numbers, serial fees, etc., if any, should be written in the remarks column.</p>
+
 ### Contact📧
 Contact us here : <a href="https://www.x.com/otenkigirl_exe">X (Formerly known as Twitter)</a>
