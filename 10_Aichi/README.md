@@ -65,38 +65,38 @@
 
 ## day1_itinerary
 
-JR Keihin Tohoku Line Yokohama Station 1016
-JR Keihin-Tohoku Line Higashi-Kanagawa Station 1019 >
-JR Yokohama Line Higashi-Kanagawa Station 1020 >
-Arrive at Shin-Yokohama Station 1028 on JR Yokohama Line >
-Departing from JR Tokaido Shinkansen Shin-Yokohama Station Kodama 717 1045 >
-Tokaido Shinkansen Nagoya Station Kodama 717 arriving 1306 >
-Yabaton Nagoya Station Esca >>
-Meitetsu Nagoya Station Mu Sky departing 1450 >
-Arrive at Meitetsu Central Japan International Airport Station 1518 >
-Explore the venue >
-Toyoko Inn Central Japan International Airport 1 check-in 1600 >
-Arrive at venue 1615 >
-Concert starts 1700 >
-End of show 2000 >
-Arrive at Toyoko Inn Chubu International Airport 1, 2100
+- JR Keihin Tohoku Line Yokohama Station 1016
+- JR Keihin-Tohoku Line Higashi-Kanagawa Station 1019 >
+- JR Yokohama Line Higashi-Kanagawa Station 1020 >
+- Arrive at Shin-Yokohama Station 1028 on JR Yokohama Line >
+- Departing from JR Tokaido Shinkansen Shin-Yokohama Station Kodama 717 1045 >
+- Tokaido Shinkansen Nagoya Station Kodama 717 arriving 1306 >
+- Yabaton Nagoya Station Esca >>
+- Meitetsu Nagoya Station Mu Sky departing 1450 >
+- Arrive at Meitetsu Central Japan International Airport Station 1518 >
+- Explore the venue >
+- Toyoko Inn Central Japan International Airport 1 check-in 1600 >
+- Arrive at venue 1615 >
+- Concert starts 1700 >
+- End of show 2000 >
+- Arrive at Toyoko Inn Chubu International Airport 1, 2100
 
 ## day2_itinerary
 
-Toyoko Inn Chubu International Airport 1 Checkout 1000 >
-Walk around the airport >
-Lunch (undecided) >
-Arrive at venue 1500 >
-Concert starts 1600 >
-end of show 1900 >
-Departure from Meitetsu Chubu Kokusai Kuko Station 2007 >
-Meitetsu Nagoya Station 2035 >
-Tokaido Shinkansen Nagoya Station Kodama 754 2046 >
-Tokaido Shinkansen Shin-Yokohama Station Kodama 754 arrived 2306 >
-JR Yokohama Line Shin-Yokohama Station 2319 >
-JR Yokohama Line Higashi-Kanagawa Station 2327 >
-Departure from Higashi-Kanagawa Station 2330, JR Keihin-Tohoku Line >
-Arrive at Yokohama Station 2333 on JR Keihin-Tohoku Line
+- Toyoko Inn Chubu International Airport 1 Checkout 1000 >
+- Walk around the airport >
+- Lunch (undecided) >
+- Arrive at venue 1500 >
+- Concert starts 1600 >
+- end of show 1900 >
+- Departure from Meitetsu Chubu Kokusai Kuko Station 2007 >
+- Meitetsu Nagoya Station 2035 >
+- Tokaido Shinkansen Nagoya Station Kodama 754 2046 >
+- Tokaido Shinkansen Shin-Yokohama Station Kodama 754 arrived 2306 >
+- JR Yokohama Line Shin-Yokohama Station 2319 >
+- JR Yokohama Line Higashi-Kanagawa Station 2327 >
+- Departure from Higashi-Kanagawa Station 2330, JR Keihin-Tohoku Line >
+- Arrive at Yokohama Station 2333 on JR Keihin-Tohoku Line
 
 # 80_summary
 
