@@ -59,7 +59,7 @@
 
 - **name_of_a_hotel** : Hotel Pearl City Sendai
 - **Accommodation_Reservations** : Already.
-- **hotel_charge** : 8,000
+- **hotel_charge** : 8,600
 
 # 70_itinerary🛴
 
