@@ -1,29 +1,29 @@
 # What is this?👀
 <p>This markdown file contains information on the Aichi show.</p>
 
-# 00_live_infomation
+# 00_live_infomation📅
 
 - **venue** : AICHI SKY EXPO Hall A
 - **capacity** : 6,500
 - **dates** : 2025/03/22(sat),2025/03/23(sun)
 
-# 10_schedule
+# 10_schedule⏰
 
-## day1_schedule
+## day1_schedule🥁
 
 - **day1_doors_open_time** : 1600
 - **day1_event_start_time** : 1700
 - **day1_finale_time(forecast)** : 2000
 
-## day2_schedule
+## day2_schedule☂️
 
 - **day2_doors_open_time** : 1500
 - **day2_event_start_time** : 1600
 - **day2_finale_time(forecast)** : 1900
 
-# 20_serial_and_companion
+# 20_serial_and_companion📃
 
-## day1_serial_and_companion
+## day1_serial_and_companion🔖
 
 - **day1_Serial_type** : Single 2 / Absolute LOVER
 - **day1_Release_and_application start date** : 2024/12/11(Wed)
@@ -33,7 +33,7 @@
 - **day1_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : yet.
 
-## day2_serial_and_companion
+## day2_serial_and_companion📰
 
 - **day2_Serial_type** : Single 3 / Title undecided
 - **day2_Release_and_application start date** : 2025/01/08(Wed)
@@ -43,27 +43,27 @@
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : yet.
 
-# 30_summary_of_serial_and_companion
+# 30_summary_of_serial_and_companion💰
 
 - **total_serial_amount** : 14,960
 
-# 40_ticket_price
+# 40_ticket_price💴
 
 - **ticket_price_for_both_days** : 23,870
 
-# 50_transportation_expenses
+# 50_transportation_expenses🚅
 
 - **transportation_expenses** : 21,776
 
-# 60_hotel
+# 60_hotel🏨
 
 - **name_of_a_hotel** : Toyoko INN Central Japan International Airport 1 
 - **Accommodation_Reservations** : Already.
 - **hotel_charge** : 8,700
 
-# 70_itinerary
+# 70_itinerary🛴
 
-## day1_itinerary
+## day1_itinerary🚀
 
 - JR Keihin Tohoku Line Yokohama Station 1016
 - JR Keihin-Tohoku Line Higashi-Kanagawa Station 1019 >
@@ -81,7 +81,7 @@
 - End of show 2000 >
 - Arrive at Toyoko Inn Chubu International Airport 1, 2100
 
-## day2_itinerary
+## day2_itinerary🚢
 
 - Toyoko Inn Chubu International Airport 1 Checkout 1000 >
 - Walk around the airport >
@@ -98,7 +98,7 @@
 - Departure from Higashi-Kanagawa Station 2330, JR Keihin-Tohoku Line >
 - Arrive at Yokohama Station 2333 on JR Keihin-Tohoku Line
 
-# 80_summary
+# 80_summary🎧
 
 - **total_amount** : 65,428
 - **remarks** : Lodging serial number release notification was made on 11/25. Waiting for reply. Reservations for Platte Kodama can be made one month in advance.
