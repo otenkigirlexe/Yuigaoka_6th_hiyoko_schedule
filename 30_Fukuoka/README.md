@@ -86,9 +86,11 @@
 - **remarks** : I'm in the process of requesting my companion to purchase the cereal.
 - In the event of a change in the serial number, the following procedure should be followed.
 
-<p></p>
+<br>
 
 - **What if the four of us decide to attend a live concert?🔥**
+
+<br>
 
 - 1.Contact and thank the person who will accompany TKD (@TKDLiella).
 - 2.Tell cha_shu_(@B4ryT80JLkyFm8T) that the four of us will be attending the concert.
