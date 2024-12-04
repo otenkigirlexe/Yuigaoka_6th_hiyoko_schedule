@@ -26,7 +26,7 @@
 ## day1_serial_and_companion🔖
 
 - **day1_Serial_type** : animation blu-ray 3rd season volume 1
-- **day1_Release_and_application start date** : 2024/12/25(Wed)
+- **day1_Release_and_application_start_date** : 2024/12/25(Wed)
 - **day1_application_deadline** : 2025/01/13(mon,hol)
 - **day1_Serial_Unit_Price** : 7,700
 - **number_of_day1_serials** : 2
@@ -36,7 +36,7 @@
 ## day2_serial_and_companion📰
 
 - **day2_Serial_type** : Single 1 / Bubble Rise Special Color
-- **day2_Release_and_application start date** : 2024/11/13(Wed)
+- **day2_Release_and_application_start_date** : 2024/11/13(Wed)
 - **day2_application_deadline** : 2024/12/08(sun)
 - **day2_Serial_Unit_Price** : 1,870
 - **number_of_day2_serials** : 5
