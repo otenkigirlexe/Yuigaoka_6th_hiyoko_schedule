@@ -26,7 +26,7 @@
 ## day1_serial_and_companion🔖
 
 - **day1_Serial_type** : Single 2 / Absolute LOVER
-- **day1_Release_and_application start date** : 2024/12/11(Wed)
+- **day1_Release_and_application_start_date** : 2024/12/11(Wed)
 - **day1_application_deadline** : 2025/01/13(mon,hol)
 - **day1_Serial_Unit_Price** : 1,870
 - **number_of_day1_serials** : 4
@@ -36,7 +36,7 @@
 ## day2_serial_and_companion📰
 
 - **day2_Serial_type** : Single 3 / Title undecided
-- **day2_Release_and_application start date** : 2025/01/08(Wed)
+- **day2_Release_and_application_start_date** : 2025/01/08(Wed)
 - **day2_application_deadline** : 2025/01/26(sun)
 - **day2_Serial_Unit_Price** : 1,870
 - **number_of_day2_serials** : 5
