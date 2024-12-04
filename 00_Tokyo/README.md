@@ -57,11 +57,34 @@
 - **Accommodation_Reservations** : N/A
 - **hotel_charge** : N/A
 
-# 90_summary
+# 90_itinerary
+
+## day1_itinerary
+
+- Keikyu Yokohama Station 1450 arrival >
+- Departure from Yokohama Station 1457 on the Tokyu Toyoko Line >
+- Arrive at Shibuya Station 1524 on Tokyu Toyoko Line >
+- Arrive at venue 1600 >
+- Start 1730 >
+- End of show 2030 >
+- Departure: Tokyu Toyoko Line Shibuya Station 2135 > Arrival: Tokyu Toyoko Line Yokohama Station 2205
+- Tokyu Toyoko Line Yokohama Station 2205 >
+- Departure from Keikyu Yokohama Station 2209
+
+## day2_itinerary
+
+- Keikyu Yokohama Station 1322 arrival >
+- Departure from Yokohama Station (Tokyu Toyoko Line) 1327 >
+- Arrive at Shibuya Station 1354 on Tokyu Toyoko Line >
+- Arrive at the venue 1430 >
+- Concert begins 1630 >
+- End of show 1930 >
+- Harajuku Walk >
+- Tokyu Toyoko Line Shibuya Station 2135 >
+- Arrive at Yokohama Station 2205 on Tokyu Toyoko Line >
+- Departure from Keikyu Yokohama Station 2209
+
+# 100_summary
 
 - **total_amount** : 49,856
-- **remarks** : N/A
-
-<p>I'll write about the itinerary soon.</p>
-
-  
+- **remarks** : i'll write about the next steps soon.
