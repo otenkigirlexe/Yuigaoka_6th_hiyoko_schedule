@@ -65,19 +65,16 @@
 
 ## day1_itinerary🚀
 
-- Keikyu Yokohama Station 1450 arrival >
 - Departure from Yokohama Station 1457 on the Tokyu Toyoko Line >
 - Arrive at Shibuya Station 1524 on Tokyu Toyoko Line >
 - Arrive at venue 1600 >
 - Start 1730 >
 - End of show 2030 >
 - Departure: Tokyu Toyoko Line Shibuya Station 2135 > Arrival: Tokyu Toyoko Line Yokohama Station 2205
-- Tokyu Toyoko Line Yokohama Station 2205 >
-- Departure from Keikyu Yokohama Station 2209
+- Tokyu Toyoko Line Yokohama Station 2205
 
 ## day2_itinerary🚢
 
-- Keikyu Yokohama Station 1322 arrival >
 - Departure from Yokohama Station (Tokyu Toyoko Line) 1327 >
 - Arrive at Shibuya Station 1354 on Tokyu Toyoko Line >
 - Arrive at the venue 1430 >
@@ -85,8 +82,7 @@
 - End of show 1930 >
 - Harajuku Walk >
 - Tokyu Toyoko Line Shibuya Station 2135 >
-- Arrive at Yokohama Station 2205 on Tokyu Toyoko Line >
-- Departure from Keikyu Yokohama Station 2209
+- Arrive at Yokohama Station 2205 on Tokyu Toyoko Line
 
 # 80_summary🎧
 
