@@ -13,6 +13,8 @@
 - **day1_event_start_time** : 1730
 - **day1_finale_time(forecast)** : 2030
 
+<p></p>
+
 - **day2_doors_open_time** : 1500
 - **day2_event_start_time** : 1630
 - **day2_finale_time(forecast)** : 1930
