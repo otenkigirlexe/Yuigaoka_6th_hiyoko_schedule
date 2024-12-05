@@ -40,7 +40,7 @@
 - **day2_application_deadline** : 2025/03/02(sun)
 - **day2_Serial_Unit_Price** : 3,630
 - **number_of_day2_serials** : 5
-- **day2_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T),and more…?
+- **day2_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T)
 - **already_applied?** : yet.
 
 # 30_summary_of_serial_and_companion💰
@@ -84,19 +84,3 @@
 
 - **total_amount** : 126,135
 - **remarks** : I'm in the process of requesting my companion to purchase the cereal.
-- In the event of a change in the serial number, the following procedure should be followed.
-
-<br>
-
-- **What if the four of us decide to attend a live concert?🔥**
-
-<br>
-
-- 1.Contact and thank the person who will accompany TKD (@TKDLiella).
-- 2.Tell cha_shu_(@B4ryT80JLkyFm8T) that the four of us will be attending the concert.
-- 3.Ask cha_shu_(@B4ryT80JLkyFm8T) to change the number of reservations for Liella!'s Song 3 from 5 to 3 (1 additional copy to be bought).
-- 4.Ask cha_shu_(@B4ryT80JLkyFm8T) to change the number of reservations for Soundtrack from 5 to 3 (1 additional copy to be bought).
-- 5.I(@otenkigirl_exe) will hand over one copy of LIella!'s Song 3 and one SoundTrack to cha_shu_(@B4ryT80JLkyFm8T).
-- 6.I(@otenkigirl_exe) get 4,480 yen from cha_shu_(@B4ryT80JLkyFm8T).
-- 7.I(@otenkigirl_exe) will cancel the order for Animation Blu-ray 3rd Season Volume 3 that I pre-ordered on Amazon.
-- 8.Just register as a companion and apply. Just wait to be selected.
