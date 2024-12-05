@@ -40,7 +40,7 @@
 - **day2_application_deadline** : 2025/03/09(sun)
 - **day2_Serial_Unit_Price** : 3,850
 - **number_of_day2_serials** : 5
-- **day2_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T),and more…?
+- **day2_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T)
 - **already_applied?** : yet.
 
 # 30_summary_of_serial_and_companion💰
@@ -77,4 +77,4 @@
 # 80_summary🎧
 
 - **total_amount** : 78,768
-- **remarks** : Why is it held on Friday? It’s a bit sad, isn’t it? If the number of attendees, including myself, becomes four, please read and execute the 80_summery section of the README.md for the Fukuoka performance.
+- **remarks** : Why is it held on Friday? It’s a bit sad, isn’t it?
