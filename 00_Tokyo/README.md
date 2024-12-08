@@ -42,6 +42,7 @@
 - **number_of_day2_serials** : 5
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),TKD(@TKDLiella)
 - **already_applied?** : Already applied for 5 tickets.
+- **attention** : Received request from handa(@Ilove_Liella) and TKD(@TKDLiella) to purchase CD on their behalf on 2024/12/07. 2025/02/01 to receive payment and CD delivery. 1,870 yen from handa(@Ilove_Liella) and TKD(@TKDLiella). TKDLiella) and 3,740 yen from TKD (@TKDLiella).
 
 # 30_summary_of_serial_and_companion💰
 
