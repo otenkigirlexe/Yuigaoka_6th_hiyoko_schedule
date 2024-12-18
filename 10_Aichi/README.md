@@ -32,6 +32,8 @@
 - **number_of_day1_serials** : 4
 - **day1_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : yet.
+- **ticket_hit?** : undecided.
+- **Need an additional application?** : undecided.
 
 ## day2_serial_and_companion📰
 
@@ -42,6 +44,8 @@
 - **number_of_day2_serials** : 5
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : yet.
+- **ticket_hit?** : undecided.
+- **Need an additional application?** : undecided.
 
 # 30_summary_of_serial_and_companion💰
 
