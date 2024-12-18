@@ -32,6 +32,8 @@
 - **number_of_day1_serials** : 3
 - **day1_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
 - **already_applied?** : yet.
+- **ticket_hit?** : undecided.
+- **Need an additional application?** : undecided.
 
 ## day2_serial_and_companion📰
 
@@ -42,6 +44,8 @@
 - **number_of_day2_serials** : 8
 - **day2_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
 - **already_applied?** : yet.
+- **ticket_hit?** : undecided.
+- **Need an additional application?** : undecided.
 
 # 30_summary_of_serial_and_companion💰
 
