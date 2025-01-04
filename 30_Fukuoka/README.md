@@ -30,7 +30,7 @@
 - **day1_application_deadline** : 2025/03/16(sun)
 - **day1_Serial_Unit_Price** : 7,700(2,945 yen since I split the third ticket with my companion)
 - **number_of_day1_serials** : 2.5
-- **day1_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T),and more…?
+- **day1_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T)
 - **already_applied?** : yet.
 - **ticket_hit?** : undecided.
 - **Need an additional application?** : undecided.
@@ -67,24 +67,97 @@
 
 # 70_itinerary🛴
 
-## day1_itinerary🚀
+## plan1_day1_itinerary🚀
 
-- The itinerary will be considered later.
-- Riding from Shin-Yokohama to Hakata using Nozomi Green Car. No discount due to the Goldin Week period.
+- Departure from JR Yokohama Station 0913 >
+- Arrive at JR Yokohama Line Shin-Yokohama Station 0924 >
+- Purchase breakfast and lunch >
+- Departure from Tokaido Shinkansen Shin-Yokohama Station Nozomi 21 0948 >
+- Arrive at Tokaido Shinkansen Shin-Osaka Station Nozomi 21 1200 >
+- Departure from Sanyo Shinkansen Shin-Osaka Station Nozomi 21 1202 >
+- Arrive at Sanyo Shinkansen Hakata Station Nozomi 21 1430 >
+- Check-in at R&B Hotel Hakata Station No.2 1500 >
+- Departure from R&B Hotel Hakata Station No.2 1510 >
+- Departure from BRT Hakata Station Nishinippon City Bank-mae F 1530 >
+- Arrive at BRT Kokusai Kaigijo Sunpalace-mae 1541 >
+- Arrive at venue 1550 >
+- Concert begins 1700 >
+- Concert ends 2000 >
+- Departure from Bus 48 Kokusai Center/Sunpalace-mae 2053 >
+- Arrive at Bus Hakata Station A 2114 >
+- Return to R&B Hotel Hakata Station No.2 2130 >
 
-## day2_itinerary🚢
+## plan1_day2_itinerary🚢
 
-- The itinerary will be considered later.
-- I consider it only a round trip between the hotel and the live concert venue.
+- Wake up >
+- Sightseeing in Fukuoka (via subway to Ohori Park area) >
+- Departure from Bus 4 Arato 1-chome 1353 >
+- Arrive at Bus 4 Chikkoguchi 1412 >
+- Arrive at venue 1430 >
+- Concert begins 1600 >
+- Concert ends 1900 >
+- Departure from Bus 47-1 Marine Messe-mae 2003 >
+- Arrive at Bus 47-1 Hakata Station A 2018 >
+- Return to R&B Hotel Hakata Station No.2 2040 >
 
-## day3_itinerary🚲
+## plan1_day3_itinerary🚲
 
-- This item was added because the Fukuoka show is a 3-day/2-night event.
-- I would like to go to Ohori Park.
-- If the Kodama No. 854 departing from Hakata Station at 12:54 p.m. is assigned to the 500 Series, make a reservation for Car No. 6.
-- I'm considering taking the Kodama train from Shin-Osaka to Shin-Yokohama as well.
+- Departure from R&B Hotel Hakata Station No.2 >
+- Sightseeing in Hakata >
+- Departure from Sanyo Shinkansen Hakata Station Kodama 854 1254 >
+- Arrive at Sanyo Shinkansen Shin-Osaka Station Kodama 854 1725 >
+- Departure from Tokaido Shinkansen Shin-Osaka Station Kodama 748 1754 >
+- Arrive at Tokaido Shinkansen Shin-Yokohama Station Kodama 748 2129 >
+- Departure from JR Yokohama Line Shin-Yokohama Station 2146 >
+- Arrive at JR Yokohama Line Higashi-Kanagawa Station 2155 >
+- Departure from JR Keihin-Tohoku Line Higashi-Kanagawa Station 2156 >
+- Arrive at JR Keihin-Tohoku Line Yokohama Station 2159 >
+
+## plan2_day0_itinerary🎠
+
+- Departure from JR Yokohama Station Sunrise Seto/Izumo 2215 >
+- Sleep >
+
+## plan2_day1_itinerary🛶
+
+- Wake up >
+- Arrive at JR Okayama Station Sunrise Seto/Izumo 0627 >
+- Departure from JR Okayama Station Sanyo Shinkansen Kodama 835 0719 >
+- Arrive at JR Hakata Station Sanyo Shinkansen Kodama 835 1000 >
+- Explore Hakata >
+- Check-in at R&B Hotel Hakata Station No.2 1500 >
+- Departure from R&B Hotel Hakata Station No.2 1510 >
+- Departure from BRT Hakata Station Nishinippon City Bank-mae F 1530 >
+- Arrive at BRT Kokusai Kaigijo Sunpalace-mae 1541 >
+- Arrive at venue 1550 >
+- Concert begins 1700 >
+- Concert ends 2000 >
+- Departure from Bus 48 Kokusai Center/Sunpalace-mae 2053 >
+- Arrive at Bus Hakata Station A 2114 >
+- Return to R&B Hotel Hakata Station No.2 2130
+
+## plan2_day2_itinerary🛸
+
+- Wake up >
+- Sightseeing in Fukuoka (via subway to Ohori Park area) >
+- Departure from Bus 4 Arato 1-chome 1353 >
+- Arrive at Bus 4 Chikkoguchi 1412 >
+- Arrive at venue 1430 >
+- Concert begins 1600 >
+- Concert ends 1900 >
+- Departure from Sanyo Shinkansen Hakata Station Mizuho 614 2109 >
+- Arrive at Sanyo Shinkansen Shin-Osaka Station Mizuho 614 2307 >
+- Departure from JR Himeji Station Sunrise Seto/Izumo 2333 >
+- Sleep >
+
+## plan2_day3_itinerary🪂
+
+- Wake up >
+- Arrive at JR Yokohama Station Sunrise Seto/Izumo 0644
 
 # 80_summary🎧
 
 - **total_amount** : 126,135
-- **remarks** : I'm in the process of requesting my companion to purchase the cereal.
+- **remarks** : For Sunrise Seto and Izumo, reservations are recommended at the station at 10:00 a.m. one month in advance.<br>
+                For the Shinkansen, reservations can be made one month and one week in advance and will be arranged for the Green Car.<br>
+                Prices are subject to change depending on the plan. Check after decision is made.
