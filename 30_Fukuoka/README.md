@@ -85,7 +85,7 @@
 - Concert ends 2000 >
 - Departure from Bus 48 Kokusai Center/Sunpalace-mae 2053 >
 - Arrive at Bus Hakata Station A 2114 >
-- Return to R&B Hotel Hakata Station No.2 2130 >
+- Return to R&B Hotel Hakata Station No.2 2130
 
 ## plan1_day2_itinerary🚢
 
@@ -98,11 +98,11 @@
 - Concert ends 1900 >
 - Departure from Bus 47-1 Marine Messe-mae 2003 >
 - Arrive at Bus 47-1 Hakata Station A 2018 >
-- Return to R&B Hotel Hakata Station No.2 2040 >
+- Return to R&B Hotel Hakata Station No.2 2040
 
 ## plan1_day3_itinerary🚲
 
-- Departure from R&B Hotel Hakata Station No.2 >
+- R&B Hotel Hakata Station No.2 Checkout >
 - Sightseeing in Hakata >
 - Departure from Sanyo Shinkansen Hakata Station Kodama 854 1254 >
 - Arrive at Sanyo Shinkansen Shin-Osaka Station Kodama 854 1725 >
@@ -111,7 +111,7 @@
 - Departure from JR Yokohama Line Shin-Yokohama Station 2146 >
 - Arrive at JR Yokohama Line Higashi-Kanagawa Station 2155 >
 - Departure from JR Keihin-Tohoku Line Higashi-Kanagawa Station 2156 >
-- Arrive at JR Keihin-Tohoku Line Yokohama Station 2159 >
+- Arrive at JR Keihin-Tohoku Line Yokohama Station 2159
 
 ## plan2_day0_itinerary🎠
 
@@ -138,7 +138,7 @@
 
 ## plan2_day2_itinerary🛸
 
-- Wake up >
+- R&B Hotel Hakata Station No.2 Checkout >
 - Sightseeing in Fukuoka (via subway to Ohori Park area) >
 - Departure from Bus 4 Arato 1-chome 1353 >
 - Arrive at Bus 4 Chikkoguchi 1412 >
