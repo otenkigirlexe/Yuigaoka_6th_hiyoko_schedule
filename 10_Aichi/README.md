@@ -69,7 +69,7 @@
 
 ## day1_itinerary🚀
 
-- JR Keihin Tohoku Line Yokohama Station 1016
+- JR Keihin Tohoku Line Yokohama Station 1016 >
 - JR Keihin-Tohoku Line Higashi-Kanagawa Station 1019 >
 - JR Yokohama Line Higashi-Kanagawa Station 1020 >
 - Arrive at Shin-Yokohama Station 1028 on JR Yokohama Line >
