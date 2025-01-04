@@ -74,11 +74,36 @@
 
 ## day2_itinerary🚢
 
-- The itinerary will be considered later.
-- Scheduled to board Kodama No. 711
-- Plan to use Nozomi Nozomi green car for the return trip, booking with EX Green Early Special Wide 3.
+- Depart from JR Yokohama Line Yokohama Station 0838 >  
+- Arrive at JR Yokohama Line Shin-Yokohama Station 0851 >  
+- Purchase breakfast >  
+- Depart from Tokaido Shinkansen Kodama 711 at Shin-Yokohama Station 0915 >  
+- Arrive at Tokaido Shinkansen Kodama 711 at Shin-Osaka Station 1251 >  
+- Depart from Osaka Metro Midosuji Line Shin-Osaka Station 1257 >  
+- Arrive at Osaka Metro Midosuji Line Namba Station 1313 >  
+- Lunch (Takoyaki) >  
+- Depart from Osaka Metro Sennichimae Line Namba Station 1355 >  
+- Arrive at Osaka Metro Sennichimae Line Tsuruhashi Station 1400 >  
+- Depart from JR Osaka Loop Line Tsuruhashi Station 1406 >  
+- Arrive at JR Osaka Loop Line Osakajo-Koen Station 1411 >  
+- Arrive at venue 1420 >  
+- Concert begins 1530 >  
+- Concert ends 1900 (Final show day; may end slightly later) >  
+- Depart from JR Osaka Loop Line Osakajo-Koen Station 2057 >  
+- Arrive at JR Osaka Loop Line Osaka Station 2106 >  
+- Depart from JR Kyoto Line Osaka Station 2110 >  
+- Arrive at JR Kyoto Line Shin-Osaka Station 2114 >  
+- Depart from Tokaido Shinkansen Nozomi 64 at Shin-Osaka Station 2124 >  
+- Arrive at Tokaido Shinkansen Nozomi 64 at Shin-Yokohama Station 2327 >  
+- Depart from JR Yokohama Line Shin-Yokohama Station 2334 >  
+- Arrive at JR Yokohama Line Higashi-Kanagawa Station 2342 >  
+- Depart from JR Keihin-Tohoku Line Higashi-Kanagawa Station 2344 >  
+- Arrive at JR Keihin-Tohoku Line Yokohama Station 2347
 
 # 80_summary🎧
 
 - **total_amount** : 78,768
-- **remarks** : Why is it held on Friday? It’s a bit sad, isn’t it?
+- **remarks** : Why is it held on Friday? It’s a bit sad, isn’t it?<br>
+                We plan to use Puratto Kodama on the way to the airport on the second day.<br>
+                On the return trip, we plan to use EX Hayatoku 3.<br>
+                Both of them plan to reserve a green car.<br>
