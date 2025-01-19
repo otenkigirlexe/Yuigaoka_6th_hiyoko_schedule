@@ -32,8 +32,8 @@
 - **number_of_day1_serials** : 4
 - **day1_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : Already applied for 4 tickets.
-- **ticket_hit?** : undecided.
-- **Need an additional application?** : undecided.
+- **ticket_hit?** : no.
+- **Need an additional application?** : yes.
 
 ## day2_serial_and_companion📰
 
