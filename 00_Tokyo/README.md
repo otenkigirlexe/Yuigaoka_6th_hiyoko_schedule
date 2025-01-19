@@ -31,9 +31,9 @@
 - **day1_Serial_Unit_Price** : 7,700
 - **number_of_day1_serials** : 2
 - **day1_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),TKD(@TKDLiella),MaRASa(@MaRASa_MIA)
-- **already_applied?** : yet.
-- **ticket_hit?** : undecided.
-- **Need an additional application?** : undecided.
+- **already_applied?** : Already applied for 2 tickets.
+- **ticket_hit?** : yes.
+- **Need an additional application?** : no.
 
 ## day2_serial_and_companion📰
 
