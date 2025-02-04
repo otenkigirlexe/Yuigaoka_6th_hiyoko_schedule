@@ -107,4 +107,4 @@
 # 80_summary🎧
 
 - **total_amount** : 65,428
-- **remarks** : Lodging serial number release notification was made on 11/25. Waiting for reply. Reservations for Platte Kodama can be made one month in advance.
+- **remarks** : I applied for the 2nd advance because I didn't win the 1st day in the fastest advance.
