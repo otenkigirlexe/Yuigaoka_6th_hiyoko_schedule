@@ -34,6 +34,7 @@
 - **already_applied?** : yet.
 - **ticket_hit?** : undecided.
 - **Need an additional application?** : undecided.
+- **money exchange** : unscheduled.
 
 ## day2_serial_and_companion📰
 
@@ -46,6 +47,7 @@
 - **already_applied?** : yet.
 - **ticket_hit?** : undecided.
 - **Need an additional application?** : undecided.
+- **money exchange** : unscheduled.
 
 # 30_summary_of_serial_and_companion💰
 
