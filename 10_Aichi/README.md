@@ -34,6 +34,7 @@
 - **already_applied?** : Already applied for 1 ticket.
 - **ticket_hit?** : undecided.
 - **Need an additional application?** : undecided.
+- **money exchange** : unscheduled.
 
 ## day2_serial_and_companion📰
 
@@ -46,6 +47,7 @@
 - **already_applied?** : yet.
 - **ticket_hit?** : yes.
 - **Need an additional application?** : no.
+- **money exchange** : Gave approximately 7,500 yen to handa (@Ilove_Liella) for the ticket price excluding the cost of the CD.
 
 # 30_summary_of_serial_and_companion💰
 
