@@ -93,4 +93,4 @@
 # 80_summary🎧
 
 - **total_amount** : 49,856
-- **remarks** : i'll write about the next steps soon.As for day2, we are looking for consecutive number of people.
+- **remarks** : Nothing in particular.
