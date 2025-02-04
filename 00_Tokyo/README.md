@@ -34,6 +34,7 @@
 - **already_applied?** : Already applied for 2 tickets.
 - **ticket_hit?** : yes.
 - **Need an additional application?** : no.
+- **money exchange** : 11,935 yen to TKD (@TKDLiella).
 
 ## day2_serial_and_companion📰
 
@@ -46,7 +47,7 @@
 - **already_applied?** : Already applied for 5 tickets.
 - **ticket_hit?** : yes.
 - **Need an additional application?** : no.
-- **attention** : Received request from handa(@Ilove_Liella) and TKD(@TKDLiella) to purchase CD on their behalf on 2024/12/07. 2025/02/01 to receive payment and CD delivery. 1,870 yen from handa(@Ilove_Liella) and TKD(@TKDLiella). TKDLiella) and 3,740 yen from TKD (@TKDLiella).
+- **money exchange** : Received request from handa(@Ilove_Liella) and TKD(@TKDLiella) to purchase CD on their behalf on 2024/12/07. 2025/02/01 to receive payment and CD delivery. 1,870 yen from handa(@Ilove_Liella) and TKD(@TKDLiella). TKDLiella) and 3,740 yen from TKD (@TKDLiella).I gave TKD (@TKDLiella) approximately 8,000 yen for the ticket, minus the cost of the CD.
 
 # 30_summary_of_serial_and_companion💰
 
