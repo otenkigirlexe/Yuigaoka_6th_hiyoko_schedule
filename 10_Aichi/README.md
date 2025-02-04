@@ -25,15 +25,15 @@
 
 ## day1_serial_and_companion🔖
 
-- **day1_Serial_type** : Single 2 / Absolute LOVER
-- **day1_Release_and_application_start_date** : 2024/12/11(Wed)
-- **day1_application_deadline** : 2025/01/13(mon,hol)
-- **day1_Serial_Unit_Price** : 1,870
-- **number_of_day1_serials** : 4
-- **day1_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
-- **already_applied?** : Already applied for 4 tickets.
-- **ticket_hit?** : no.
-- **Need an additional application?** : yes.
+- **day1_Serial_type** : Liella!CLUB
+- **day1_Release_and_application_start_date** : 2025/01/30(thu)
+- **day1_application_deadline** : 2025/02/10(mon)
+- **day1_Serial_Unit_Price** : 13,200
+- **number_of_day1_serials** : 1
+- **day1_fellow_travellers** : me(@otenkigirl_exe)
+- **already_applied?** : Already applied for 1 ticket.
+- **ticket_hit?** : undecided.
+- **Need an additional application?** : undecided.
 
 ## day2_serial_and_companion📰
 
@@ -41,15 +41,15 @@
 - **day2_Release_and_application_start_date** : 2025/01/08(Wed)
 - **day2_application_deadline** : 2025/01/26(sun)
 - **day2_Serial_Unit_Price** : 1,870
-- **number_of_day2_serials** : 5
+- **number_of_day2_serials** : 4
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : yet.
-- **ticket_hit?** : undecided.
-- **Need an additional application?** : undecided.
+- **ticket_hit?** : yes.
+- **Need an additional application?** : no.
 
 # 30_summary_of_serial_and_companion💰
 
-- **total_serial_amount** : 14,960
+- **total_serial_amount** : 22,550
 
 # 40_ticket_price💴
 
