@@ -32,7 +32,7 @@
 - **number_of_day1_serials** : 3
 - **day1_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
 - **already_applied?** : yet.
-- **ticket_hit?** : undecided.
+- **ticket_hit?** : Already applied for 2 tickets.
 - **Need an additional application?** : undecided.
 - **money exchange** : unscheduled.
 
@@ -44,7 +44,7 @@
 - **day2_Serial_Unit_Price** : 1,430
 - **number_of_day2_serials** : 8
 - **day2_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
-- **already_applied?** : yet.
+- **already_applied?** : Already applied for 5 tickets.
 - **ticket_hit?** : undecided.
 - **Need an additional application?** : undecided.
 - **money exchange** : unscheduled.
@@ -134,3 +134,4 @@
 
 - **total_amount** : 94,429
 - **remarks** : I would like to stop by Beef Tongue Tasuke during the two days. Also, a cab is considered necessary. We are planning to use a discount by using Tokuda Value 14 on the outward journey.
+<br>Serial codes were transferred.
