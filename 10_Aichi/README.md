@@ -44,7 +44,7 @@
 - **day2_Serial_Unit_Price** : 1,870
 - **number_of_day2_serials** : 4
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
-- **already_applied?** : yet.
+- **already_applied?** : Already applied for 4 tickets.
 - **ticket_hit?** : yes.
 - **Need an additional application?** : no.
 - **money exchange** : Gave approximately 7,500 yen to handa (@Ilove_Liella) for the ticket price excluding the cost of the CD.
