@@ -32,9 +32,9 @@
 - **number_of_day1_serials** : 1
 - **day1_fellow_travellers** : me(@otenkigirl_exe)
 - **already_applied?** : Already applied for 1 ticket.
-- **ticket_hit?** : undecided.
-- **Need an additional application?** : undecided.
-- **money exchange** : unscheduled.
+- **ticket_hit?** : yes.
+- **Need an additional application?** : no.
+- **money exchange** : no.
 
 ## day2_serial_and_companion📰
 
