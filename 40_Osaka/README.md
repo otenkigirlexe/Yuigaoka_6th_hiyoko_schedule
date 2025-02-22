@@ -44,7 +44,7 @@
 - **day2_Serial_Unit_Price** : 3,850
 - **number_of_day2_serials** : 5
 - **day2_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T)
-- **already_applied?** : yet.
+- **already_applied?** : Already applied for 5 tickets.
 - **ticket_hit?** : undecided.
 - **Need an additional application?** : undecided.
 - **money exchange** : unscheduled.
