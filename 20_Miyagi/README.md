@@ -45,9 +45,9 @@
 - **number_of_day2_serials** : 8
 - **day2_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
 - **already_applied?** : Already applied for 5 tickets.
-- **ticket_hit?** : undecided.
-- **Need an additional application?** : undecided.
-- **money exchange** : unscheduled.
+- **ticket_hit?** : yes.
+- **Need an additional application?** : no.
+- **money exchange** : ma_bo_(real-life_friend) needs to pay ¥11,935 to me(@otenkigirl_exe).
 
 # 30_summary_of_serial_and_companion💰
 
