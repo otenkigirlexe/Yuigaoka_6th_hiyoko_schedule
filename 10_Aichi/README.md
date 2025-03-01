@@ -23,7 +23,21 @@
 
 # 20_serial_and_companion📃
 
-## day1_serial_and_companion🔖
+## day1_serial_and_companion_01🔖
+
+- **day1_Serial_type_01** : Single 2 / Absolute LOVER
+- **day1_Release_and_application_start_date_01** : 2024/12/11(Wed)
+- **day1_application_deadline_01** : 2025/01/13(mon,hol)
+- **day1_Serial_Unit_Price_01** : 1,870
+- **number_of_day1_serials_01** : 4
+- **day1_fellow_travellers_01** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
+- **already_applied?_01** : Already applied for 4 tickets.
+- **ticket_hit?_01** : undecided.
+- **Need an additional application?_01** : undecided.
+- **ticket_hit?_01** : no.
+- **Need an additional application?_01** : yes.
+
+## day1_serial_and_companion_02🐱‍🚀
 
 - **day1_Serial_type** : Liella!CLUB
 - **day1_Release_and_application_start_date** : 2025/01/30(thu)
@@ -59,7 +73,7 @@
 
 # 50_transportation_expenses🚅
 
-- **transportation_expenses** : 21,776
+- **transportation_expenses** : 18,430
 
 # 60_hotel🏨
 
@@ -71,21 +85,23 @@
 
 ## day1_itinerary🚀
 
-- JR Keihin Tohoku Line Yokohama Station 1016 >
-- JR Keihin-Tohoku Line Higashi-Kanagawa Station 1019 >
-- JR Yokohama Line Higashi-Kanagawa Station 1020 >
-- Arrive at Shin-Yokohama Station 1028 on JR Yokohama Line >
-- Departing from JR Tokaido Shinkansen Shin-Yokohama Station Kodama 717 1045 >
-- Tokaido Shinkansen Nagoya Station Kodama 717 arriving 1306 >
-- Yabaton Nagoya Station Esca >>
-- Meitetsu Nagoya Station Mu Sky departing 1450 >
-- Arrive at Meitetsu Central Japan International Airport Station 1518 >
-- Explore the venue >
-- Toyoko Inn Central Japan International Airport 1 check-in 1600 >
-- Arrive at venue 1615 >
+- JR Shonan-Shinjuku Line Special Rapid Service Yokohama Station 0928 >
+- JR Shonan-Shinjuku Line Special Rapid Service Odawara Station 1014 >
+- JR Tokaido Line Odawara Station 1025 >
+- JR Tokaido Line Atami Station 1048 >
+- JR Tokaido Line Atami Station 1051 >
+- JR Tokaido Line Hamamatsu Station 1321 >
+- JR Tokaido Line Hamamatsu Station 1325 >
+- JR Tokaido Line Toyohashi Station 1359 >
+- JR Tokaido Line Rapid Toyohashi Station 1402 >
+- JR Tokaido Line Rapid Kanayama Station 1453 >
+- Meitetsu Nagoya Main Line Limited Express Kanayama Station 1505 >
+- Meitetsu Nagoya Main Line Limited Express 1536 Central Japan International Airport Station 1536 >
+- Toyoko Inn Central Japan International Airport 1 check-in 1550 >
+- Arrive at venue 1610 >
 - Concert starts 1700 >
 - End of show 2000 >
-- Arrive at Toyoko Inn Chubu International Airport 1, 2100
+- Arrive at Toyoko Inn Chubu International Airport 1 2100
 
 ## day2_itinerary🚢
 
@@ -95,16 +111,14 @@
 - Arrive at venue 1500 >
 - Concert starts 1600 >
 - end of show 1900 >
-- Departure from Meitetsu Chubu Kokusai Kuko Station 2007 >
-- Meitetsu Nagoya Station 2035 >
-- Tokaido Shinkansen Nagoya Station Kodama 754 2046 >
-- Tokaido Shinkansen Shin-Yokohama Station Kodama 754 arrived 2306 >
-- JR Yokohama Line Shin-Yokohama Station 2319 >
-- JR Yokohama Line Higashi-Kanagawa Station 2327 >
-- Departure from Higashi-Kanagawa Station 2330, JR Keihin-Tohoku Line >
-- Arrive at Yokohama Station 2333 on JR Keihin-Tohoku Line
+- Meitetsu Nagoya Main Line Limited Express 1536 Central Japan International Airport Station 2047 >
+- Meitetsu Nagoya Main Line Limited Express Kanayama Station 2124 >
+- Tokaido Shinkansen Nagoya Station Hikari 668 2139 >
+- Tokaido Shinkansen Odawara Station Hikari 668 arrived 2253 >
+- JR Tokaido Line Odawara Station 2310 >
+- JR Tokaido Line Yokohama Station 0005
 
 # 80_summary🎧
 
-- **total_amount** : 65,428
+- **total_amount** : 73,550
 - **remarks** : I applied for the 2nd advance because I didn't win the 1st day in the fastest advance.
