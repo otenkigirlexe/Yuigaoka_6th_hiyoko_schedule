@@ -33,8 +33,8 @@
 - **day1_fellow_travellers** : N/A
 - **already_applied?** : N/A
 - **ticket_hit?** : N/A
-- **Need an additional application?** : N/A
-- **money exchange** : N/A
+- **need_an_additional_application?** : N/A
+- **money_exchange** : N/A
 
 ## day2_serial_and_companion📰
 
@@ -43,11 +43,11 @@
 - **day2_application_deadline** : 2025/03/09(sun)
 - **day2_Serial_Unit_Price** : 3,850
 - **number_of_day2_serials** : 5
-- **day2_fellow_travellers** : me(@otenkigirl_exe),cha_shu_(@B4ryT80JLkyFm8T)
+- **day2_fellow_travellers** : me(@otenkigirl_exe)
 - **already_applied?** : Already applied for 5 tickets.
 - **ticket_hit?** : undecided.
-- **Need an additional application?** : undecided.
-- **money exchange** : unscheduled.
+- **need_an_additional_application?** : undecided.
+- **money_exchange** : unscheduled.
 
 # 30_summary_of_serial_and_companion💰
 
@@ -59,13 +59,14 @@
 
 # 50_transportation_expenses🚅
 
-- **transportation_expenses** : 24,678
+- **transportation_expenses** : 24,748
 
 # 60_hotel🏨
 
 - **name_of_a_hotel** : N/A
 - **Accommodation_Reservations** : N/A
 - **hotel_charge** : N/A
+- **hotel_cahrge_paid?** : N/A
 
 # 70_itinerary🛴
 
@@ -104,8 +105,5 @@
 
 # 80_summary🎧
 
-- **total_amount** : 78,768
+- **total_amount** : 60,933
 - **remarks** : Why is it held on Friday? It’s a bit sad, isn’t it?<br>
-                We plan to use Puratto Kodama on the way to the airport on the second day.<br>
-                On the return trip, we plan to use EX Hayatoku 3.<br>
-                Both of them plan to reserve a green car.<br>
