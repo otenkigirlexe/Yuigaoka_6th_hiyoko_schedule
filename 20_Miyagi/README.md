@@ -59,7 +59,7 @@
 
 # 50_transportation_expenses🚅
 
-- **transportation_expenses** : 22,774
+- **transportation_expenses** : 22,811
 
 # 60_hotel🏨
 
@@ -72,49 +72,47 @@
 
 ## day1_itinerary🚀
 
-- Departure from Keikyu Yokohama Station 0859 >
-- Arrival Keikyu Shinagawa Station 0921 >
-- Departure from Shinagawa Station 0930 >
-- Arrive JR Tokaido Line Tokyo Station 0937 >
-- Departure Tohoku Shinkansen Tokyo Station Yamabiko 177 0948 >
-- Tohoku Shinkansen Fukushima Station Yamabiko 177 Arrival 1119 >
-- Departure from JR Tohoku Main Line Fukushima Station 1140 >
-- Arrive at Date Station (JR Tohoku Main Line) 1149 >
-- Departure from JR Tohoku Main Line Date Station 1215 >
-- Arrive at Fukushima Station (JR Tohoku Main Line) 1225 >
-- Departure Tohoku Shinkansen Fukushima Station Yamabiko #135 1237 >
-- Tohoku Shinkansen Sendai Station Yamabiko 135 Arrival 1304 >
+- Ueno-Tokyo Line Yokohama Station 0855 >
+- Ueno-Tokyo Line Omiya Station 0957 >
+- Tohoku SHinkansen Omiya Station Yamabiko 177 1013 >
+- Tohoku Shinkansen Fukushima Station Yamabiko 177 1119 >
+- JR Tohoku Main Line Fukushima Station 1140 >
+- JR Tohoku Main Line Date Station 1149 >
+- Sightseeing at Date Station >
+- JR Tohoku Main Line Date Station 1215 >
+- JR Tohoku Main Line Date Station 1225 >
+- Tohoku Shinkansen Fukushima Station Yamabiko 135 1237 >
+- Tohoku Shinkansen Sendai Station Yamabiko 135 1304 >
 - Photo book “Ashiato” Pilgrimage to the Holy Land >
 - Departure from Sendai Station 1330 >
 - Arrive at Gyutan Ajitasuke 1400 >
 - Departure from Gyutan Aji Tasuke 1440 >
-- Check in Hotel Pearl City Sendai Arrival 1500 >
+- Check in Hotel Pearl City Sendai 1500 >
 - Hotel Pearl City Sendai >
-- Departure from JR Tohoku Main Line Sendai Sta. 1535 >
-- Arrive at JR Iwakiri Station (Tohoku Main Line) 1544 >
-- Take a cab (reservation required) 1550 departure >
+- JR Tohoku Main Line Sendai Station 1535 >
+- JR Tohoku Main Line Iwakiri Station 1544 >
+- Take a cab (reservation required) 1550 >
 - Arrive at 1605 >
 - Arrive at venue 1610 >
 - Concert begins 1700 >
 - Concert ends at 2000 >
 - Cab ride (reservation required) 2030 >
 - Cab 2045 >
-- Departure from JR Iwakiri Station (Tohoku Main Line) 2051 >
+- JR Tohoku Main Line Iwakiri Station 2051 >
 - JR Tohoku Main Line Sendai Station 2101 >
-- Departure from Sendai Station 2105 on JR Tohoku Main Line >
 - Arrive at Hotel Pearl City 2120
 
 ## day2_itinerary🚢
 
-- Departure from Hotel Pearl City 1020 >
-- Visit Sendai E-Beans 1030 >
+- Check out Hotel Pearl City 1000 >
+- Visit Sendai E-Beans 1020 >
 - Departure from Sendai E-Beans 1050 >
 - JR Sendai Station Coin Locker >
 - Departure from JR Sendai Station 1109 >
-- JR Senseki Line Matsushima-kaigan Station 1148 Arrival >
+- JR Senseki Line Matsushima-kaigan Station 1148 >
 - Matsushima sightseeing >
-- Departure from JR Matsushima Station 1356 >
-- Arrive at JR Iwakiri Station (Tohoku Main Line) 1412 >
+- JR Tohoku Main Line Matsushima Station 1356 >
+- JR Tohoku Main Line Iwakiri Station 1412 >
 - Take a cab (reservation required) 1420 >
 - Cab alighting 1435 >
 - Arrive at venue 1440 >
@@ -122,17 +120,18 @@
 - Concert ends at 1900 >
 - Cab ride (reservation required) 1940 >
 - Arrive by cab 1955 >
-- JR Tohoku Main Line Iwakiri Station (depending on time, use cab to Sendai Station) Departure 2110 >
-- JR Tohoku Main Line Sendai Station 2120 Arrival >
-- Depart from JR Tohoku Shinkansen Sendai Station (Hayabusa 48) 2131 >
-- Arrive at Tokyo Station on Tohoku Shinkansen Line Hayabusa No.48 2304 >
-- Departure from Tokyo Station 2312 on JR Tokaido Line >
-- Arrive JR Tokaido Line Shinagawa Station 2321 >
-- Departure from Keikyu Shinagawa Station 2333 >
-- Arrive at Keikyu Yokohama Station 2354
+- JR Tohoku Main Line Iwakiri Station (depending on time, use cab to Sendai Station) 2110 >
+- JR Tohoku Main Line Sendai Station 2120 >
+- Tohoku Shinkansen Sendai Station Hayabusa 48 2131 >
+- Tohoku Shinkansen Sendai Station Hayabusa 48 2304 >
+- Ueno-Tokyo Line Tokyo Station 2312 >
+- Ueno-Tokyo Line Shinagawa Station 2321 >
+- Keikyu Shinagawa Station 2333 >
+- Keikyu Yokohama Station 2354
 
 # 80_summary🎧
 
-- **total_amount** : 94,429
+- **total_amount** : 86,311
 - **remarks** : I would like to stop by Beef Tongue Tasuke during the two days. Also, a cab is considered necessary. We are planning to use a discount by using Tokuda Value 14 on the outward journey.
 <br>Serial codes were transferred.
+<br>Fares do not include cab fare.
