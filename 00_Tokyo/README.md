@@ -66,6 +66,7 @@
 - **name_of_a_hotel** : N/A
 - **Accommodation_Reservations** : N/A
 - **hotel_charge** : N/A
+- **hotel_charge_paid?** : N/A
 
 # 70_itinerary🛴
 
