@@ -72,24 +72,24 @@
 
 ## day1_itinerary🚀
 
-- Departure from Yokohama Station 1457 on the Tokyu Toyoko Line >
-- Arrive at Shibuya Station 1524 on Tokyu Toyoko Line >
+- Tokyu Toyoko Line Yokohama Station 1457 >
+- Tokyu Toyoko Line Shibuya Station 1524 >
 - Arrive at venue 1600 >
 - Start 1730 >
 - End of show 2030 >
-- Departure: Tokyu Toyoko Line Shibuya Station 2135 > Arrival: Tokyu Toyoko Line Yokohama Station 2205
+- Tokyu Toyoko Line Shibuya Station 2135 >
 - Tokyu Toyoko Line Yokohama Station 2205
 
 ## day2_itinerary🚢
 
-- Departure from Yokohama Station (Tokyu Toyoko Line) 1327 >
-- Arrive at Shibuya Station 1354 on Tokyu Toyoko Line >
+- Tokyu Toyoko Line Yokohama Station 1327 >
+- Tokyu Toyoko Line Shibuya Station 1354 >
 - Arrive at the venue 1430 >
 - Concert begins 1630 >
 - End of show 1930 >
 - Harajuku Walk >
 - Tokyu Toyoko Line Shibuya Station 2135 >
-- Arrive at Yokohama Station 2205 on Tokyu Toyoko Line
+- Tokyu Toyoko Line Yokohama Station 2205
 
 # 80_summary🎧
 
