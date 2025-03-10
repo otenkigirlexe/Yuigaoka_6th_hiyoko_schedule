@@ -32,23 +32,22 @@
 - **number_of_day1_serials_01** : 4
 - **day1_fellow_travellers_01** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?_01** : Already applied for 4 tickets.
-- **ticket_hit?_01** : undecided.
-- **Need an additional application?_01** : undecided.
 - **ticket_hit?_01** : no.
-- **Need an additional application?_01** : yes.
+- **need_an_additional_application?_01** : yes.
+- **money_exchange_01** : no.
 
 ## day1_serial_and_companion_02🐱‍🚀
 
-- **day1_Serial_type** : Liella!CLUB
-- **day1_Release_and_application_start_date** : 2025/01/30(thu)
-- **day1_application_deadline** : 2025/02/10(mon)
-- **day1_Serial_Unit_Price** : 13,200
-- **number_of_day1_serials** : 1
-- **day1_fellow_travellers** : me(@otenkigirl_exe)
-- **already_applied?** : Already applied for 1 ticket.
-- **ticket_hit?** : yes.
-- **Need an additional application?** : no.
-- **money exchange** : no.
+- **day1_Serial_type_02** : Liella!CLUB
+- **day1_Release_and_application_start_date_02** : 2025/01/30(thu)
+- **day1_application_deadline_02** : 2025/02/10(mon)
+- **day1_Serial_Unit_Price_02** : 13,200
+- **number_of_day1_serials_02** : 1
+- **day1_fellow_travellers_02** : me(@otenkigirl_exe)
+- **already_applied?_02** : Already applied for 1 ticket.
+- **ticket_hit?_02** : yes.
+- **need_an_additional_application?_02** : no.
+- **money exchange_02** : no.
 
 ## day2_serial_and_companion📰
 
@@ -60,12 +59,12 @@
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),cha_shu_(@B4ryT80JLkyFm8T),yozora(@yozora_0924)
 - **already_applied?** : Already applied for 4 tickets.
 - **ticket_hit?** : yes.
-- **Need an additional application?** : no.
-- **money exchange** : Gave approximately 7,500 yen to handa (@Ilove_Liella) for the ticket price excluding the cost of the CD.
+- **need_an_additional_application?** : no.
+- **money_exchange** : Gave approximately 7,500 yen to handa (@Ilove_Liella) for the ticket price excluding the cost of the CD.
 
 # 30_summary_of_serial_and_companion💰
 
-- **total_serial_amount** : 22,550
+- **total_serial_amount** : 14,960
 
 # 40_ticket_price💴
 
@@ -73,32 +72,28 @@
 
 # 50_transportation_expenses🚅
 
-- **transportation_expenses** : 18,430
+- **transportation_expenses** : 24,258
 
 # 60_hotel🏨
 
 - **name_of_a_hotel** : Toyoko INN Central Japan International Airport 1 
 - **Accommodation_Reservations** : Already.
 - **hotel_charge** : 8,700
+- **hotel_charge_paid?** : yes.
 
 # 70_itinerary🛴
 
 ## day1_itinerary🚀
 
-- JR Shonan-Shinjuku Line Special Rapid Service Yokohama Station 0928 >
-- JR Shonan-Shinjuku Line Special Rapid Service Odawara Station 1014 >
-- JR Tokaido Line Odawara Station 1025 >
-- JR Tokaido Line Atami Station 1048 >
-- JR Tokaido Line Atami Station 1051 >
-- JR Tokaido Line Hamamatsu Station 1321 >
-- JR Tokaido Line Hamamatsu Station 1325 >
-- JR Tokaido Line Toyohashi Station 1359 >
-- JR Tokaido Line Rapid Toyohashi Station 1402 >
-- JR Tokaido Line Rapid Kanayama Station 1453 >
-- Meitetsu Nagoya Main Line Limited Express Kanayama Station 1505 >
-- Meitetsu Nagoya Main Line Limited Express 1536 Central Japan International Airport Station 1536 >
-- Toyoko Inn Central Japan International Airport 1 check-in 1550 >
-- Arrive at venue 1610 >
+- JR Yokohama Line Yokohama Station 1035 >
+- JR Yokohama Line Shin-Yokohama Station 1048 >
+- Tokaido Shinkansen Shin-Yokohama Station Kodama 719 1115 >
+- Tokaido Shinkansen Nagoya Station Kodama 717 1337 >
+- Yabaton Nagoya Station Esca >
+- Meitetsu Nagoya Main Line Limited Express Nagoya Station 1450 >
+- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station 1518 >
+- Toyoko Inn Central Japan International Airport 1 check-in 1530 >
+- Arrive at venue 1600 >
 - Concert starts 1700 >
 - End of show 2000 >
 - Arrive at Toyoko Inn Chubu International Airport 1 2100
@@ -107,18 +102,22 @@
 
 - Toyoko Inn Chubu International Airport 1 Checkout 1000 >
 - Walk around the airport >
+- Taking a hot spring bath >
 - Lunch (undecided) >
 - Arrive at venue 1500 >
 - Concert starts 1600 >
 - end of show 1900 >
-- Meitetsu Nagoya Main Line Limited Express 1536 Central Japan International Airport Station 2047 >
-- Meitetsu Nagoya Main Line Limited Express Kanayama Station 2124 >
-- Tokaido Shinkansen Nagoya Station Hikari 668 2139 >
-- Tokaido Shinkansen Odawara Station Hikari 668 arrived 2253 >
-- JR Tokaido Line Odawara Station 2310 >
-- JR Tokaido Line Yokohama Station 0005
+- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station 2107 >
+- Meitetsu Nagoya Main Line Limited Express Nagoya Station 2135 >
+- Tokaido Shinkansen Nagoya Station Nozomi 62 2156 >
+- Tokaido Shinkansen Shin-Yokohama Station Nozomi 62 2314 >
+- JR Yokohama Line Shin-Yokohama Station 2319 >
+- JR Yokohama Line Higashi-Kanagawa Station 2327 >
+- JR Keihin-Tohoku Line Higashi-Kanagawa Station 2330 >
+- JR Keihin-tohoku Line Yokohama Station 2333
 
 # 80_summary🎧
 
-- **total_amount** : 73,550
+- **total_amount** : 71,788
 - **remarks** : I applied for the 2nd advance because I didn't win the 1st day in the fastest advance.
+<br>Fan club fee for fan club lottery is not included in the serial price.
