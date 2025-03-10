@@ -33,8 +33,8 @@
 - **day1_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),TKD(@TKDLiella),MaRASa(@MaRASa_MIA)
 - **already_applied?** : Already applied for 2 tickets.
 - **ticket_hit?** : yes.
-- **Need an additional application?** : no.
-- **money exchange** : 11,935 yen to TKD (@TKDLiella).
+- **need_an_additional_application?** : no.
+- **money_exchange** : 11,935 yen to TKD (@TKDLiella).
 
 ## day2_serial_and_companion📰
 
@@ -46,8 +46,8 @@
 - **day2_fellow_travellers** : me(@otenkigirl_exe),handa(@Ilove_Liella),TKD(@TKDLiella)
 - **already_applied?** : Already applied for 5 tickets.
 - **ticket_hit?** : yes.
-- **Need an additional application?** : no.
-- **money exchange** : Received request from handa(@Ilove_Liella) and TKD(@TKDLiella) to purchase CD on their behalf on 2024/12/07. 2025/02/01 to receive payment and CD delivery. 1,870 yen from handa(@Ilove_Liella) and TKD(@TKDLiella). TKDLiella) and 3,740 yen from TKD (@TKDLiella).I gave TKD (@TKDLiella) approximately 8,000 yen for the ticket, minus the cost of the CD.
+- **need_an_additional_application?** : no.
+- **money_exchange** : Received request from handa(@Ilove_Liella) and TKD(@TKDLiella) to purchase CD on their behalf on 2024/12/07. 2025/02/01 to receive payment and CD delivery. 1,870 yen from handa(@Ilove_Liella) and TKD(@TKDLiella). TKDLiella) and 3,740 yen from TKD (@TKDLiella).I gave TKD (@TKDLiella) approximately 8,000 yen for the ticket, minus the cost of the CD.
 
 # 30_summary_of_serial_and_companion💰
 
