@@ -28,13 +28,13 @@
 - **day1_Serial_type** : animation blu-ray 3rd season volume 2
 - **day1_Release_and_application_start_date** : 2025/01/29(Wed)
 - **day1_application_deadline** : 2025/02/24(mon,hol)
-- **day1_Serial_Unit_Price** : 7,700(The third one is 5,945)
+- **day1_Serial_Unit_Price** : 7,700 / 5,945(One of the three costs 7,700)
 - **number_of_day1_serials** : 3
 - **day1_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
 - **already_applied?** : yet.
 - **ticket_hit?** : Already applied for 2 tickets.
-- **Need an additional application?** : undecided.
-- **money exchange** : unscheduled.
+- **need_an_additional_application?** : undecided.
+- **money_exchange** : ma_bo_(real-life_friend) to paid ¥11,935 to me(@otenkigirl_exe).
 
 ## day2_serial_and_companion📰
 
@@ -46,12 +46,12 @@
 - **day2_fellow_travellers** : me(@otenkigirl_exe),ma_bo_(real-life_friend)
 - **already_applied?** : Already applied for 5 tickets.
 - **ticket_hit?** : yes.
-- **Need an additional application?** : no.
-- **money exchange** : ma_bo_(real-life_friend) needs to pay ¥11,935 to me(@otenkigirl_exe).
+- **need_an_additional_application?** : no.
+- **money_exchange** : ma_bo_(real-life_friend) to paid ¥11,935 to me(@otenkigirl_exe).
 
 # 30_summary_of_serial_and_companion💰
 
-- **total_serial_amount** : 32,785
+- **total_serial_amount** : 31,030
 
 # 40_ticket_price💴
 
@@ -66,6 +66,7 @@
 - **name_of_a_hotel** : Hotel Pearl City Sendai
 - **Accommodation_Reservations** : Already.
 - **hotel_charge** : 8,600
+- **hotel_charge_paid?** : no.
 
 # 70_itinerary🛴
 
