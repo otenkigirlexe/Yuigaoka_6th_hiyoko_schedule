@@ -122,8 +122,8 @@
 - Arrive by cab 1955 >
 - JR Tohoku Main Line Iwakiri Station (depending on time, use cab to Sendai Station) 2110 >
 - JR Tohoku Main Line Sendai Station 2120 >
-- Tohoku Shinkansen Sendai Station Hayabusa 48 2131 >
-- Tohoku Shinkansen Sendai Station Hayabusa 48 2304 >
+- Tohoku Shinkansen Sendai Station Hayabusa 42 2131 >
+- Tohoku Shinkansen Sendai Station Hayabusa 42 2304 >
 - Ueno-Tokyo Line Tokyo Station 2312 >
 - Ueno-Tokyo Line Shinagawa Station 2321 >
 - Keikyu Shinagawa Station 2333 >
