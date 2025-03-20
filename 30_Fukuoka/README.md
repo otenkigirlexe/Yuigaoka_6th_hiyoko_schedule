@@ -72,13 +72,11 @@
 
 ## day1_itinerary🚀
 
-- Departure from JR Yokohama Station 0913 >
-- Arrive at JR Yokohama Line Shin-Yokohama Station 0924 >
+- Departure from JR Yokohama Station 0926 >
+- Arrive at JR Yokohama Line Shin-Yokohama Station 0938 >
 - Purchase breakfast and lunch >
-- Departure from Tokaido Shinkansen Shin-Yokohama Station Nozomi 21 0948 >
-- Arrive at Tokaido Shinkansen Shin-Osaka Station Nozomi 21 1200 >
-- Departure from Sanyo Shinkansen Shin-Osaka Station Nozomi 21 1202 >
-- Arrive at Sanyo Shinkansen Hakata Station Nozomi 21 1430 >
+- Departure from Tokaido Shinkansen Shin-Yokohama Station Nozomi 131 1000 >
+- Arrive at Sanyo Shinkansen Hakata Station Nozomi 131 1445 >
 - Check-in at R&B Hotel Hakata Station No.2 1500 >
 - Departure from R&B Hotel Hakata Station No.2 1510 >
 - Departure from BRT Hakata Station Nishinippon City Bank-mae F 1530 >
