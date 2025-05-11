@@ -65,8 +65,8 @@
 
 - **name_of_a_hotel** : R&B Hotel Hakata Station No.2
 - **Accommodation_Reservations** : Already.
-- **hotel_charge** : 18,600
-- **hotel_chaege_paid?** : no.
+- **hotel_charge** : 19,000
+- **hotel_chaege_paid?** : Already.
 
 # 70_itinerary🛴
 
@@ -75,8 +75,8 @@
 - Departure from JR Yokohama Station 0926 >
 - Arrive at JR Yokohama Line Shin-Yokohama Station 0938 >
 - Purchase breakfast and lunch >
-- Departure from Tokaido Shinkansen Shin-Yokohama Station Nozomi 131 1000 >
-- Arrive at Sanyo Shinkansen Hakata Station Nozomi 131 1445 >
+- Departure from Tokaido Shinkansen Shin-Yokohama Station Nozomi 21 0948 >
+- Arrive at Sanyo Shinkansen Hakata Station Nozomi 21 1430 >
 - Check-in at R&B Hotel Hakata Station No.2 1500 >
 - Departure from R&B Hotel Hakata Station No.2 1510 >
 - Departure from BRT Hakata Station Nishinippon City Bank-mae F 1530 >
@@ -105,14 +105,10 @@
 
 - R&B Hotel Hakata Station No.2 Checkout >
 - Sightseeing in Hakata >
-- Departure from Sanyo Shinkansen Hakata Station Kodama 854 1254 >
-- Arrive at Sanyo Shinkansen Shin-Osaka Station Kodama 854 1725 >
-- Departure from Tokaido Shinkansen Shin-Osaka Station Kodama 748 1754 >
-- Arrive at Tokaido Shinkansen Shin-Yokohama Station Kodama 748 2129 >
-- Departure from JR Yokohama Line Shin-Yokohama Station 2146 >
-- Arrive at JR Yokohama Line Higashi-Kanagawa Station 2155 >
-- Departure from JR Keihin-Tohoku Line Higashi-Kanagawa Station 2156 >
-- Arrive at JR Keihin-Tohoku Line Yokohama Station 2159
+- Departure from Sanyo Shinkansen Hakata Station Nozomi 34 1336 >
+- Arrive at Tokaido Shinkansen Shin-Yokohama Station Nozomi 34 1814 >
+- Departure from JR Yokohama Line Shin-Yokohama Station 1821 >
+- Arrive at JR Keihin-Tohoku Line Yokohama Station 1833
 
 # 80_summary🎧
 
