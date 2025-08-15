@@ -45,8 +45,8 @@
 - **number_of_day2_serials** : 5
 - **day2_fellow_travellers** : me(@otenkigirl_exe)
 - **already_applied?** : Already applied for 5 tickets.
-- **ticket_hit?** : undecided.
-- **need_an_additional_application?** : undecided.
+- **ticket_hit?** : yes.
+- **need_an_additional_application?** : no.
 - **money_exchange** : unscheduled.
 
 # 30_summary_of_serial_and_companion💰
